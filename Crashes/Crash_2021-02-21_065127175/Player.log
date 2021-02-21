@@ -1,0 +1,587 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Temtem/Temtem_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Temtem/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.14f1 (df5769635aab)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Temtem/Temtem_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2191)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   27.21.14.5709
+Begin MonoManager ReloadAssembly
+- Completed reload, in  8.878 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+New input system (experimental) initialized
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1034.394200 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 3449.
+Total: 91.301600 ms (FindLiveObjects: 0.446500 ms CreateObjectMapping: 0.132300 ms MarkObjects: 90.704400 ms  DeleteObjects: 0.017300 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1788 -> priority: 1 
+  Thread -> id: 1bf0 -> priority: 1 
+  Thread -> id: 2534 -> priority: 1 
+  Thread -> id: 27c -> priority: 1 
+d3d11: failed to create 2D texture id=7851 width=4096 height=4096 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7851 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7853 width=4096 height=4096 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7853 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7869 width=2048 height=1024 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7869 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7871 width=4096 height=4096 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7871 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7879 width=1024 height=1024 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7879 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7887 width=1024 height=1024 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7887 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7891 width=4096 height=4096 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7891 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7899 width=1024 height=432 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7899 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7907 width=1024 height=1024 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7907 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7911 width=1024 height=1024 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7911 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7915 width=370 height=730 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7915 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7921 width=2048 height=878 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7921 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7927 width=1024 height=1024 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7927 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7929 width=569 height=1024 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7929 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7931 width=1024 height=1019 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7931 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7939 width=4096 height=2048 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7939 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7943 width=2048 height=1024 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7943 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7953 width=1024 height=1024 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=7957 width=1024 height=1024 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7953 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=7957 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7959 width=724 height=1300 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7959 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7963 width=1920 height=1080 mips=1 dxgifmt=99 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7963 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7967 width=746 height=1046 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7967 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7969 width=1024 height=2048 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7969 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7973 width=469 height=1024 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7973 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7975 width=4096 height=1728 mips=1 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7975 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7977 width=1024 height=1024 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7977 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7979 width=1024 height=2048 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7979 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7981 width=1024 height=1024 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7981 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7987 width=1024 height=1024 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7987 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7989 width=512 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7989 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7991 width=332 height=234 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7991 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7993 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7993 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7995 width=512 height=512 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7995 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7997 width=148 height=173 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7997 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=7999 width=1920 height=1080 mips=1 dxgifmt=99 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=7999 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=8005 width=4096 height=4096 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=8005 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=8007 width=310 height=210 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=8007 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=8009 width=210 height=210 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=8009 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=8011 width=1024 height=1024 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=8011 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=8013 width=408 height=290 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=8013 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=8015 width=2048 height=2048 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=8015 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=8017 width=778 height=774 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=8017 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=8019 width=2048 height=275 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=8019 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=8023 width=2048 height=2048 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=8023 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=8025 width=290 height=250 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=8025 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=8027 width=288 height=228 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=8027 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=8029 width=499 height=362 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=8029 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=8031 width=1024 height=1024 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=8031 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=8035 width=2048 height=2048 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=8035 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=8037 width=2560 height=1080 mips=1 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=8037 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=8039 width=1024 height=512 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=8039 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=8043 width=722 height=1104 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=8043 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=8045 width=2048 height=1024 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=8045 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=8047 width=2048 height=2048 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=8047 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Program Files (x86)\Steam\steamapps\common\Temtem;C:\Program Files (x86)\Steam\steamapps\common\Temtem;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 534, UserName: 'rqflo'
+OS-Version: 10.0.0
+C:\Program Files (x86)\Steam\steamapps\common\Temtem\Temtem.exe:Temtem.exe (00007FF707EC0000), size: 667648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.14.22377
+C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (00007FFDC7DD0000), size: 2056192 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.804
+C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (00007FFDC6F00000), size: 774144 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.804
+C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (00007FFDC5860000), size: 2920448 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.804
+C:\Program Files (x86)\Steam\steamapps\common\Temtem\UnityPlayer.dll:UnityPlayer.dll (00007FFD606C0000), size: 26861568 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.14.22377
+C:\WINDOWS\System32\USER32.dll:USER32.dll (00007FFDC65B0000), size: 1703936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\System32\win32u.dll:win32u.dll (00007FFDC5510000), size: 139264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.804
+C:\WINDOWS\System32\GDI32.dll:GDI32.dll (00007FFDC6750000), size: 172032 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\System32\gdi32full.dll:gdi32full.dll (00007FFDC55F0000), size: 1093632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\System32\msvcp_win.dll:msvcp_win.dll (00007FFDC5B30000), size: 643072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\WINDOWS\System32\ucrtbase.dll:ucrtbase.dll (00007FFDC5BD0000), size: 1048576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\WINDOWS\System32\ole32.dll:ole32.dll (00007FFDC7990000), size: 1220608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\System32\RPCRT4.dll:RPCRT4.dll (00007FFDC69D0000), size: 1224704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (00007FFDBEB80000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\combase.dll:combase.dll (00007FFDC6B00000), size: 3497984 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\System32\msvcrt.dll:msvcrt.dll (00007FFDC5F10000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.19041.546
+C:\WINDOWS\System32\SHLWAPI.dll:SHLWAPI.dll (00007FFDC60E0000), size: 348160 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\System32\SETUPAPI.dll:SETUPAPI.dll (00007FFDC6140000), size: 4616192 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\cfgmgr32.dll:cfgmgr32.dll (00007FFDC5D30000), size: 319488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\bcrypt.dll:bcrypt.dll (00007FFDC5540000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.662
+C:\WINDOWS\System32\ADVAPI32.dll:ADVAPI32.dll (00007FFDC7B50000), size: 704512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.610
+C:\WINDOWS\System32\sechost.dll:sechost.dll (00007FFDC6E60000), size: 638976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\WINDOWS\System32\SHELL32.dll:SHELL32.dll (00007FFDC7020000), size: 7610368 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\WINDOWS\System32\OLEAUT32.dll:OLEAUT32.dll (00007FFDC7C00000), size: 839680 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.804
+C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FFDACD70000), size: 1200128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\IMM32.dll:IMM32.dll (00007FFDC68C0000), size: 196608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (00007FFDB3D60000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\CRYPT32.dll:CRYPT32.dll (00007FFDC5700000), size: 1400832 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.804
+C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (00007FFDAD020000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FFDB6C90000), size: 1048576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (00007FFDC3DF0000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (00007FFDC7770000), size: 438272 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Program Files (x86)\Steam\gameoverlayrenderer64.dll:gameoverlayrenderer64.dll (00007FFDB34E0000), size: 2007040 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.36.74.20
+C:\WINDOWS\System32\PSAPI.DLL:PSAPI.DLL (00007FFDC5FC0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FFDC3460000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00000298D6F90000), size: 524288 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.662
+C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (00007FFDC3090000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\System32\shcore.dll:shcore.dll (00007FFDC7CE0000), size: 712704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FFDC3660000), size: 7929856 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\WINDOWS\SYSTEM32\Wldp.dll:Wldp.dll (00007FFDC4F00000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.662
+C:\WINDOWS\SYSTEM32\profapi.dll:profapi.dll (00007FFDC5440000), size: 155648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Program Files (x86)\Steam\steamapps\common\Temtem\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FFD6E470000), size: 7786496 (result: 0), SymType: '-deferred-', PDB: ''
+C:\WINDOWS\system32\mswsock.dll:mswsock.dll (00007FFDC4C20000), size: 434176 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\MSCTF.dll:MSCTF.dll (00007FFDC6780000), size: 1134592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (00007FFDC19C0000), size: 2506752 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (00007FFDC3F70000), size: 995328 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\System32\DriverStore\FileRepository\nvaci.inf_amd64_686661d3125bc7f3\nvldumdx.dll:nvldumdx.dll (00007FFDB9D10000), size: 1056768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 27.21.14.5709
+C:\WINDOWS\SYSTEM32\msasn1.dll:msasn1.dll (00007FFDC50F0000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\cryptnet.dll:cryptnet.dll (00007FFDBC7F0000), size: 200704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\cryptbase.dll:cryptbase.dll (00007FFDC4E70000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\WINTRUST.DLL:WINTRUST.DLL (00007FFDC5CD0000), size: 393216 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.804
+C:\WINDOWS\System32\imagehlp.dll:imagehlp.dll (00007FFDC68A0000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (00007FFDC4E50000), size: 98304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\system32\rsaenh.dll:rsaenh.dll (00007FFDC45C0000), size: 212992 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\DriverStore\FileRepository\nvaci.inf_amd64_686661d3125bc7f3\nvwgf2umx.dll:nvwgf2umx.dll (00007FFD62060000), size: 44830720 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 27.21.14.5709
+C:\WINDOWS\system32\nvspcap64.dll:nvspcap64.dll (00007FFD925F0000), size: 2908160 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.16.0.140
+C:\WINDOWS\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FFDC4250000), size: 208896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\dxcore.dll:dxcore.dll (00007FFDBDB30000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\system32\wbem\wbemprox.dll:wbemprox.dll (00007FFDB8FD0000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.610
+C:\WINDOWS\SYSTEM32\wbemcomn.dll:wbemcomn.dll (00007FFDB74F0000), size: 548864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\system32\wbem\wbemsvc.dll:wbemsvc.dll (00007FFDB6E50000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.610
+C:\WINDOWS\system32\wbem\fastprox.dll:fastprox.dll (00007FFDB6EF0000), size: 1093632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\amsi.dll:amsi.dll (00007FFDB6D90000), size: 102400 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\USERENV.dll:USERENV.dll (00007FFDC5400000), size: 188416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.572
+C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2101.9-0\MpOav.dll:MpOav.dll (00007FFDA8CC0000), size: 503808 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.18.2101.9
+C:\WINDOWS\SYSTEM32\mscms.dll:mscms.dll (00007FFDC09B0000), size: 712704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\ColorAdapterClient.dll:ColorAdapterClient.dll (00007FFDC08F0000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\icm32.dll:icm32.dll (00007FFDB3490000), size: 274432 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\xinput1_4.dll:xinput1_4.dll (00007FFDB3460000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1
+C:\WINDOWS\SYSTEM32\DEVOBJ.dll:DEVOBJ.dll (00007FFDC52B0000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\inputhost.dll:inputhost.dll (00007FFDB97E0000), size: 1384448 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\CoreUIComponents.dll:CoreUIComponents.dll (00007FFDC2970000), size: 3530752 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\CoreMessaging.dll:CoreMessaging.dll (00007FFDC2DB0000), size: 991232 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\PROPSYS.dll:PROPSYS.dll (00007FFDC1260000), size: 1011712 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.19041.746
+C:\WINDOWS\SYSTEM32\wintypes.dll:wintypes.dll (00007FFDC2550000), size: 1392640 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\xinput1_3.dll:xinput1_3.dll (0000000000400000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.18.944.0
+C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_7d6ad0397c5dc3fd\igd10iumd64.dll:igd10iumd64.dll (00007FFDBC8D0000), size: 15716352 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 26.20.100.6911
+C:\WINDOWS\SYSTEM32\ncrypt.dll:ncrypt.dll (00007FFDC4F70000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.662
+C:\WINDOWS\SYSTEM32\NTASN1.dll:NTASN1.dll (00007FFDC4F30000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_7d6ad0397c5dc3fd\igdgmm64.dll:igdgmm64.dll (00007FFDBC650000), size: 1179648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 26.20.100.6911
+C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_7d6ad0397c5dc3fd\igc64.dll:igc64.dll (00007FFDBA2F0000), size: 37093376 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 26.20.100.6911
+C:\WINDOWS\SYSTEM32\dcomp.dll:dcomp.dll (00007FFDC26B0000), size: 1994752 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FFDC3170000), size: 192512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\textinputframework.dll:textinputframework.dll (00007FFDB8D40000), size: 1028096 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\WINDOWS\System32\MMDevApi.dll:MMDevApi.dll (00007FFDBF150000), size: 544768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\WINDOWS\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (00007FFDC0020000), size: 1593344 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\WINDOWS\SYSTEM32\powrprof.dll:powrprof.dll (00007FFDC4FC0000), size: 307200 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\UMPDC.dll:UMPDC.dll (00007FFDC4FA0000), size: 73728 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Windows\System32\Windows.UI.dll:Windows.UI.dll (00007FFDB9940000), size: 1314816 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\Windows\System32\WindowManagementAPI.dll:WindowManagementAPI.dll (00007FFDBFB60000), size: 659456 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Windows\System32\twinapi.appcore.dll:twinapi.appcore.dll (00007FFDBF950000), size: 2101248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\bthprops.cpl:bthprops.cpl (00007FFDACF60000), size: 286720 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.388
+C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.746_none_ca02b4b61b8320a4\comctl32.dll:comctl32.dll (00007FFDB3AC0000), size: 2732032 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.10.19041.746
+C:\WINDOWS\SYSTEM32\xinput1_2.DLL:xinput1_2.DLL (00000000001C0000), size: 98304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.14.701.0
+C:\WINDOWS\SYSTEM32\xinput1_1.DLL:xinput1_1.DLL (00000000001E0000), size: 98304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.12.589.0
+C:\WINDOWS\SYSTEM32\xinput9_1_0.DLL:xinput9_1_0.DLL (00007FFDC0830000), size: 28672 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1
+C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFDAA630000), size: 1982464 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.804
+C:\WINDOWS\SYSTEM32\SspiCli.dll:SspiCli.dll (00007FFDC53C0000), size: 245760 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.662
+
+========== OUTPUTTING STACK TRACE ==================
+
+0x00007FFD60C47719 (UnityPlayer) UnityMain
+0x00007FFD60C452AA (UnityPlayer) UnityMain
+0x00007FFD60C419BC (UnityPlayer) UnityMain
+0x00007FFD60C41285 (UnityPlayer) UnityMain
+0x00007FFD60D68D08 (UnityPlayer) UnityMain
+0x00007FFD60D68B04 (UnityPlayer) UnityMain
+0x00007FFD60D666E7 (UnityPlayer) UnityMain
+0x00007FFD60F4F15E (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FFD60BC89FF)
+0x00007FFD60BC89FF (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FFD60BC970D)
+0x00007FFD60BC970D (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FFD60BC97E8)
+0x00007FFD60BC97E8 (UnityPlayer) (function-name not available)
+0x00007FFD60EEF978 (UnityPlayer) UnityMain
+0x00007FFDC6F17034 (KERNEL32) BaseThreadInitThunk
+0x00007FFDC7E1D241 (ntdll) RtlUserThreadStart
+
+========== END OF STACKTRACE ===========
+
+A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
+ * C:/Users/rqflo/AppData/Local/Temp/Crema/Temtem/Crashes

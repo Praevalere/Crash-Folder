@@ -1,0 +1,5841 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Temtem/Temtem_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Temtem/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.14f1 (df5769635aab)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Temtem/Temtem_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Microsoft Basic Render Driver (ID=0x8c)
+    Vendor:   
+    VRAM:     1969 MB
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.106 seconds
+Dedicated video D3D11 device creation failed (error: 0x887a0004). This device is used specifically for video decoding, we will use software video decoding instead.<RI> Initializing input.
+New input system (experimental) initialized
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 102.488700 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 3449.
+Total: 86.381000 ms (FindLiveObjects: 0.318400 ms CreateObjectMapping: 0.109500 ms MarkObjects: 85.935100 ms  DeleteObjects: 0.016600 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1e0 -> priority: 1 
+  Thread -> id: 78c -> priority: 1 
+  Thread -> id: fd8 -> priority: 1 
+  Thread -> id: 758 -> priority: 1 
+d3d11: failed to create 2D texture shader resource view id=2854 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=2858 width=4096 height=2048 mips=13 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=2858 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=2870 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=2872 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=2878 width=1024 height=1024 mips=11 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=2860 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2862 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2864 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2870 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2872 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2876 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2878 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=2880 width=2048 height=2048 mips=1 dxgifmt=99 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=2874 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2880 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2892 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2894 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2896 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2900 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2902 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2882 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2904 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=2906 width=4096 height=4096 mips=13 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=2906 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=2908 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=2908 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=2914 width=978 height=900 mips=1 dxgifmt=61 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=2910 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=2928 width=512 height=1024 mips=11 dxgifmt=77 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=2912 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2914 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=2930 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=2916 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2918 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=2932 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=2928 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2930 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2932 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=2934 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=2936 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=2924 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2934 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2936 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=2938 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=2938 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=2940 width=2048 height=2048 mips=1 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=2940 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=2942 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=2942 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2948 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2950 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2952 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=2954 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=2954 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=2956 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=2956 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2958 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=2960 width=958 height=1058 mips=1 dxgifmt=61 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=2960 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=2962 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=2962 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=2964 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=2964 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2966 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2968 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2970 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2972 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=2978 width=1024 height=1024 mips=11 dxgifmt=99 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=2978 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=2980 width=512 height=512 mips=10 dxgifmt=77 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=2980 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2982 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=2984 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=2984 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2986 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2988 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2990 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=2994 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=2996 width=1024 height=576 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=2996 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=2998 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=2998 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3000 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3000 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3002 width=2048 height=2048 mips=1 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3002 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3004 width=512 height=512 mips=10 dxgifmt=77 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3004 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3006 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3006 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3008 width=1024 height=1024 mips=11 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3008 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3010 width=1024 height=1024 mips=11 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3010 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3012 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3012 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3014 width=512 height=512 mips=10 dxgifmt=77 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3014 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3016 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3016 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3018 width=1024 height=1024 mips=11 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3018 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3022 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3022 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3026 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3028 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3028 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3034 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3036 width=1024 height=576 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3036 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3038 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3040 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3044 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3042 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3046 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3048 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3050 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3050 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3052 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3052 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3054 width=2048 height=1024 mips=12 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3054 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3056 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3056 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3058 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3058 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3060 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3062 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3062 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3066 width=1024 height=256 mips=11 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3076 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3064 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3064 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3066 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3076 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3068 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3068 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3070 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3070 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3072 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3072 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3074 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3074 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3078 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3080 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3082 width=2048 height=2048 mips=12 dxgifmt=99 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3082 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3084 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3084 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3086 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3086 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3088 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3088 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3090 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3090 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3092 width=1024 height=1024 mips=11 dxgifmt=99 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3092 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3094 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3094 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3100 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3098 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3100 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3102 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3104 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3104 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3106 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3112 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3108 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3110 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3110 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3112 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3114 width=2048 height=1024 mips=12 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3114 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3116 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3116 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3118 width=512 height=512 mips=10 dxgifmt=77 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3118 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3120 width=145 height=105 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3120 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3124 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3134 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3122 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3122 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3124 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3134 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3126 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3126 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3128 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3128 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3130 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3130 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3132 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3132 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3136 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3136 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3138 width=1024 height=576 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3138 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3142 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3148 width=512 height=512 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3152 width=512 height=512 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3156 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3140 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3140 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3142 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3148 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3152 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3156 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3144 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3144 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3146 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3146 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3158 width=1024 height=1024 mips=11 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3150 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3154 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3154 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3158 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3164 width=512 height=256 mips=10 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3160 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3160 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3162 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3162 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3164 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3166 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3166 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3172 width=1024 height=1024 mips=11 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3174 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3168 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3168 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3176 width=512 height=1024 mips=11 dxgifmt=77 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3170 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3170 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3172 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3174 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3176 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3178 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3180 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3182 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3184 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3184 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3190 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3186 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3190 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3188 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3188 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3192 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3194 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3194 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3196 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3198 width=2048 height=2048 mips=1 dxgifmt=99 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3198 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3200 width=1024 height=1024 mips=11 dxgifmt=99 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3200 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3202 width=512 height=1024 mips=11 dxgifmt=77 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3202 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3204 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3204 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3206 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3206 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3208 width=1024 height=1024 mips=11 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3208 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3210 width=1024 height=256 mips=11 dxgifmt=99 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3210 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3216 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3218 width=512 height=1024 mips=11 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3216 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3218 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3220 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3220 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3222 width=512 height=512 mips=10 dxgifmt=99 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3222 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3224 width=1024 height=2048 mips=12 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3224 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3226 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3226 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3228 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3228 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3230 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3232 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3232 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3234 width=1024 height=1024 mips=11 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3234 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3246 width=512 height=1024 mips=11 dxgifmt=77 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3250 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3238 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3256 width=512 height=1024 mips=11 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3258 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3242 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3246 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3250 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3256 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3258 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3244 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3244 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3248 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3248 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3260 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3264 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3252 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3254 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3254 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3260 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3264 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3266 width=735 height=876 mips=1 dxgifmt=61 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3262 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3266 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3268 width=1024 height=576 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3268 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3270 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3272 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3272 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3274 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3276 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3278 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3278 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3280 width=512 height=1024 mips=11 dxgifmt=77 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3280 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3282 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3284 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3284 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3286 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3286 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3288 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3288 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3290 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3290 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3292 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3292 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3294 width=2048 height=1024 mips=12 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3294 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3296 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3298 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3298 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3300 width=1024 height=576 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3300 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3310 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3312 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3316 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3318 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3320 width=512 height=1024 mips=11 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3322 width=512 height=512 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3302 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3302 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3304 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3304 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3306 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3306 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3308 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3308 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3310 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3312 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3316 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3318 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3320 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3322 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3324 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3326 width=1024 height=576 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3326 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3328 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3328 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3330 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3330 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3332 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3332 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3336 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3334 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3334 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3336 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3338 width=512 height=512 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3338 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3340 width=1024 height=1024 mips=11 dxgifmt=77 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3340 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3342 width=1024 height=1024 mips=1 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3342 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3344 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3344 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3346 width=512 height=1024 mips=11 dxgifmt=77 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3346 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3350 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3350 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3352 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3352 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3354 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3354 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3356 width=1024 height=576 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3356 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3358 width=1024 height=512 mips=11 dxgifmt=98 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3368 width=256 height=128 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3376 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3378 width=512 height=1024 mips=11 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3384 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3358 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3368 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3376 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3378 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3384 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3388 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3360 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3390 width=512 height=512 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3362 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3362 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3392 width=2048 height=1024 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3394 width=512 height=512 mips=10 dxgifmt=77 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3396 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3398 width=512 height=512 mips=1 dxgifmt=99 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3400 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3366 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3366 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3414 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3370 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3370 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3372 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3372 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3374 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3374 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3416 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3418 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3420 width=512 height=512 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3422 width=256 height=256 mips=9 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3424 width=204 height=134 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3380 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3382 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3382 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3386 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3386 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3388 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3390 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3392 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3394 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3396 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3398 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3400 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3414 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3416 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3418 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3420 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3422 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3424 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3402 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3404 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3408 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3408 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3410 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3410 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3412 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3412 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3428 width=1732 height=487 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3426 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3428 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3430 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3430 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3432 width=1024 height=576 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3432 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3434 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3434 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3436 width=1024 height=1024 mips=11 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3436 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3438 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3438 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3440 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3442 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3444 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3444 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3446 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3448 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3450 width=512 height=1024 mips=11 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3450 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3452 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3452 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3454 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3454 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3456 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3456 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3458 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3458 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3460 width=512 height=1024 mips=11 dxgifmt=77 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3460 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3462 width=512 height=512 mips=10 dxgifmt=99 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3462 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3466 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3468 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3470 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3470 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3472 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3472 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3474 width=1024 height=512 mips=11 dxgifmt=71 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3474 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3478 width=1024 height=512 mips=11 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3476 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3478 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3484 width=1024 height=512 mips=11 dxgifmt=71 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3492 width=512 height=1024 mips=11 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3496 width=2048 height=1057 mips=1 dxgifmt=61 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3480 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3480 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3482 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3482 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3484 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3492 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3496 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3498 width=1024 height=512 mips=11 dxgifmt=71 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3500 width=105 height=105 mips=1 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3498 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3500 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3546 width=2048 height=2048 mips=12 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3546 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3556 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3558 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3566 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3570 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3574 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3578 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3582 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3592 width=2048 height=1024 mips=12 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3592 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3594 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3596 width=2048 height=1024 mips=12 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3596 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3598 width=1024 height=1024 mips=11 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3598 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3600 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3604 width=1024 height=1024 mips=11 dxgifmt=78 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3604 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3606 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3608 width=512 height=512 mips=10 dxgifmt=29 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3608 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3610 [D3D error was 8007000e]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3612 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 8007000e]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3612 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3628 width=256 height=256 mips=1 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3620 [D3D error was 887a0005]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3632 width=1024 height=512 mips=11 dxgifmt=71 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3622 [D3D error was 887a0005]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3636 width=1024 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3624 [D3D error was 887a0005]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3628 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3638 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3632 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3636 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3638 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3640 width=64 height=64 mips=1 dxgifmt=65 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3614 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3614 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3616 width=64 height=64 mips=7 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3616 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3626 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3626 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3630 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3630 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3634 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3634 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3640 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3642 width=2048 height=2048 mips=12 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3642 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3644 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3644 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3646 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3646 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3648 width=2048 height=2048 mips=12 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3648 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3650 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3650 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3652 width=512 height=1024 mips=11 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3652 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3656 width=1024 height=512 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3654 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3654 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3656 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3658 width=512 height=1024 mips=11 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3658 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3660 width=2048 height=2048 mips=12 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3660 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3662 width=512 height=1024 mips=11 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3662 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3666 width=512 height=1024 mips=11 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3672 width=268 height=268 mips=1 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3678 width=512 height=512 mips=10 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3680 width=512 height=512 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3684 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3664 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3664 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3666 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3672 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3678 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3680 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3684 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3668 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3668 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3670 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3670 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3674 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3674 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3676 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3676 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3682 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3682 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3686 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3686 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3688 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3688 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3690 width=1024 height=576 mips=1 dxgifmt=29 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3690 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3692 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3698 width=180 height=347 mips=1 dxgifmt=29 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3692 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3698 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3694 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3694 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3696 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3696 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3700 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3700 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3702 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3702 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3704 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3704 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3706 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3706 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3708 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3708 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3710 width=512 height=512 mips=10 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3710 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3712 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3712 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3714 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3716 width=64 height=64 mips=1 dxgifmt=65 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3714 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3716 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3718 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3718 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3720 width=2048 height=1024 mips=12 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3722 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3720 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3722 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3726 width=1024 height=512 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3730 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3732 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3724 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3724 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3726 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3730 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3732 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3728 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3728 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3734 width=4096 height=4096 mips=13 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3734 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3736 width=2048 height=2048 mips=12 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3736 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3742 width=173 height=153 mips=1 dxgifmt=29 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3738 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3738 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3740 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3740 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3742 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3744 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3744 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3746 width=1514 height=1766 mips=1 dxgifmt=61 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3746 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3748 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3748 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3750 width=1024 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3752 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3756 width=1024 height=576 mips=1 dxgifmt=29 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3750 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3752 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3756 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3754 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3754 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3758 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3758 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3760 width=1024 height=1024 mips=11 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3760 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3764 width=1024 height=512 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3762 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3762 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3764 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3766 width=1024 height=1024 mips=11 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3778 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3766 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3778 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3768 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3768 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3770 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3770 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3772 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3772 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3774 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3774 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3776 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3776 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3780 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3780 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3782 width=2048 height=2048 mips=12 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3782 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3788 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3792 width=214 height=134 mips=1 dxgifmt=29 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3794 width=1024 height=512 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3798 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3784 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3784 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3786 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3786 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3788 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3792 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3794 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3798 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3790 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3790 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3796 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3796 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3804 width=2048 height=2048 mips=1 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3800 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3800 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3802 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3802 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3804 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3806 width=512 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3806 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3808 width=1024 height=576 mips=1 dxgifmt=29 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3808 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3810 width=512 height=512 mips=1 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3810 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3812 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3814 width=64 height=64 mips=1 dxgifmt=65 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3812 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3814 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3816 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3816 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3818 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3818 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3820 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3820 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3822 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3824 width=512 height=128 mips=10 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3822 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3824 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3826 width=2048 height=2048 mips=12 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3826 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3834 width=512 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3828 width=64 height=64 mips=7 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3828 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3830 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3830 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3832 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3832 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3834 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3836 width=512 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3838 width=1024 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3840 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3842 width=512 height=512 mips=10 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3836 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3838 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3840 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3842 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3844 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3844 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3846 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3846 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3848 width=2048 height=2048 mips=12 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3848 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3850 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3852 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3850 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3852 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3854 width=2048 height=2048 mips=12 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3854 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3856 width=2048 height=2048 mips=12 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3858 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3856 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3860 width=268 height=268 mips=1 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3860 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3858 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3862 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3862 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3864 width=1055 height=672 mips=1 dxgifmt=61 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3866 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3864 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3868 width=1024 height=512 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3866 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3868 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3870 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3870 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3872 width=2048 height=2048 mips=12 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3878 width=1024 height=512 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3878 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3872 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3880 width=512 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3884 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3886 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3888 width=2048 height=2048 mips=12 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3874 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3874 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3876 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3876 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3880 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3884 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3886 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3888 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3882 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3882 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3890 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3890 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3892 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3892 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3894 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3894 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3896 width=1024 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3896 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3900 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3904 width=512 height=256 mips=10 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3906 width=512 height=512 mips=10 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3898 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3898 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3900 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3904 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3906 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3902 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3902 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3908 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3908 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3910 width=2048 height=1024 mips=12 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3910 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3912 width=512 height=512 mips=10 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3912 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3920 width=256 height=8 mips=9 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3914 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3914 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3916 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3916 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3918 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3918 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3920 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3922 width=2048 height=1024 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3926 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3922 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3928 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3926 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3928 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3924 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3924 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3930 width=512 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3932 width=512 height=512 mips=10 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3930 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3932 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3936 width=512 height=512 mips=10 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3934 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3934 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3936 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3938 width=1024 height=1024 mips=11 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3938 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3940 width=1024 height=1024 mips=11 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3942 width=512 height=128 mips=10 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3940 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3942 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3944 width=1024 height=576 mips=1 dxgifmt=29 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3946 width=512 height=256 mips=10 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3950 width=1024 height=512 mips=1 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3944 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3946 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3950 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3952 width=1024 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3954 width=512 height=512 mips=10 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3956 width=512 height=512 mips=10 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3958 width=1024 height=512 mips=11 dxgifmt=71 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3962 width=512 height=512 mips=10 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3964 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3948 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3948 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3952 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3954 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3956 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3958 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3962 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3964 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3960 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3960 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3966 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3966 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3968 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3968 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3970 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3970 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3972 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3972 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3974 width=2048 height=214 mips=1 dxgifmt=29 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3976 width=512 height=512 mips=10 dxgifmt=71 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3974 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3976 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3978 width=2048 height=2048 mips=12 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3978 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3980 width=1024 height=512 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3980 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3982 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3982 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3984 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3984 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3986 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3986 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3988 width=512 height=1024 mips=11 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3988 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3990 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3990 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3992 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3994 width=512 height=512 mips=10 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3992 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=3994 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=3996 width=2048 height=1024 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3996 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4000 width=512 height=256 mips=10 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4002 width=2009 height=1553 mips=1 dxgifmt=61 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=3998 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=3998 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4000 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4002 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4004 width=2048 height=1024 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4004 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4006 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4006 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4008 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4008 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4010 width=1024 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4010 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4012 width=1024 height=1024 mips=1 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4012 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4014 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4016 width=512 height=512 mips=10 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4014 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4016 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4018 width=512 height=1024 mips=11 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4018 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4024 width=512 height=512 mips=10 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4020 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4020 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4022 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4022 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4024 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4026 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4026 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4028 width=2048 height=2048 mips=1 dxgifmt=61 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4036 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4028 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4036 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4040 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4044 width=2048 height=2048 mips=1 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4046 width=512 height=512 mips=10 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4030 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4030 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4032 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4032 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4034 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4034 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4050 width=2048 height=2048 mips=1 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4038 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4038 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4040 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4044 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4046 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4050 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4042 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4042 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4048 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4048 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4052 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4052 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4054 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4054 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4056 width=512 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4056 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4058 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4062 width=95 height=87 mips=1 dxgifmt=29 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4058 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4062 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4060 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4060 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4064 width=64 height=64 mips=7 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4064 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4066 width=1024 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4066 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4068 width=512 height=1024 mips=11 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4068 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4070 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4070 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4072 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4072 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4074 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4074 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4076 width=2048 height=2048 mips=12 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4080 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4080 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4076 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4088 width=4096 height=4096 mips=13 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4078 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4078 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4082 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4082 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4084 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4084 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4086 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4086 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4088 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4094 width=512 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4096 width=1024 height=2048 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4098 width=1024 height=639 mips=1 dxgifmt=61 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4100 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4102 width=512 height=512 mips=10 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4104 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4106 width=512 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4108 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4112 width=2048 height=1024 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4114 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4090 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4090 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4092 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4092 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4116 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4094 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4096 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4098 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4100 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4118 width=1024 height=512 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4102 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4104 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4106 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4120 width=512 height=512 mips=10 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4108 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4112 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4114 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4124 width=64 height=64 mips=1 dxgifmt=65 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4116 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4118 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4120 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4124 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4110 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4110 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4122 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4122 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4126 width=64 height=64 mips=7 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4126 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4128 width=2048 height=2048 mips=12 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4130 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4128 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4130 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4132 width=512 height=512 mips=1 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4138 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4138 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4132 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4142 width=512 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4146 width=1024 height=1024 mips=11 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4148 width=512 height=512 mips=10 dxgifmt=71 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4150 width=1024 height=512 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4134 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4134 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4136 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4136 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4140 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4140 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4142 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4148 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4146 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4150 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4144 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4144 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4152 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4152 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4154 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4154 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4156 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4162 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4156 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4162 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4164 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4168 width=1024 height=512 mips=11 dxgifmt=71 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4170 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4158 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4158 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4160 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4160 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4172 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4176 width=1024 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4178 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4180 width=64 height=64 mips=1 dxgifmt=65 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4164 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4168 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4170 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4172 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4176 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4178 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4180 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4166 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4166 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4174 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4174 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4182 width=2048 height=2048 mips=12 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4186 width=512 height=256 mips=10 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4182 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4190 width=256 height=256 mips=9 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4186 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4190 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4192 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4194 width=2048 height=2048 mips=12 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4184 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4184 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4188 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4188 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4192 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4194 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4196 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4196 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4198 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4198 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4200 width=1024 height=1024 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4200 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4206 width=2048 height=1055 mips=1 dxgifmt=61 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4208 width=1024 height=512 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4202 width=64 height=64 mips=7 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4202 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4204 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4204 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4206 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4208 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4210 width=2048 height=1024 mips=12 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4214 width=512 height=512 mips=10 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4216 width=512 height=512 mips=10 dxgifmt=71 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4222 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4210 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4214 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4216 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4222 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4212 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4212 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4218 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4218 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4220 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4220 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4224 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4224 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4226 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4228 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4226 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4230 width=512 height=512 mips=10 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4228 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4230 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4232 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4232 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4234 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4234 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4236 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4236 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4240 width=512 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4244 width=1024 height=576 mips=1 dxgifmt=29 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4246 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4254 width=512 height=512 mips=10 dxgifmt=71 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4238 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4238 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4240 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4244 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4246 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4254 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4256 width=512 height=256 mips=1 dxgifmt=29 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4256 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4242 width=64 height=64 mips=7 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4242 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4248 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4248 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4250 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4250 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4252 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4252 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4258 width=4096 height=4096 mips=13 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4258 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4260 width=1024 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4260 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4264 width=512 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4268 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4272 width=1024 height=1024 mips=11 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4274 width=512 height=512 mips=1 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4276 width=1024 height=576 mips=1 dxgifmt=29 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4280 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4284 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4288 width=1024 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4262 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4262 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4264 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4268 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4272 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4274 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4276 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4280 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4284 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4288 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4290 width=2048 height=1024 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4292 width=100 height=100 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4266 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4266 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4270 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4270 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4278 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4278 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4282 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4282 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4286 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4286 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4290 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4292 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4294 width=1024 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4294 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4296 width=512 height=1024 mips=11 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4296 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4298 width=512 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4300 width=90 height=74 mips=1 dxgifmt=29 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4298 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4300 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4302 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4304 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4302 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4304 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4306 width=2048 height=4096 mips=13 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4306 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4308 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4308 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4310 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4310 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4312 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4312 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4314 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4316 width=1024 height=512 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4318 width=2048 height=2048 mips=12 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4314 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4316 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4318 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4320 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4320 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4326 width=512 height=512 mips=10 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4328 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4322 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4322 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4324 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4324 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4326 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4328 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4330 width=2048 height=4096 mips=13 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4330 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4332 width=1024 height=1024 mips=11 dxgifmt=29 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4332 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4334 width=512 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4336 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4338 width=1024 height=512 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4334 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4340 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4336 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4338 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4340 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4342 width=1024 height=512 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4342 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4344 width=512 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4344 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4346 width=512 height=512 mips=10 dxgifmt=71 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4346 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4348 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4348 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4350 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4350 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4352 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4352 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4354 width=512 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4354 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4356 width=512 height=512 mips=10 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4360 width=512 height=512 mips=10 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4362 width=512 height=1024 mips=11 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4356 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4360 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4362 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4358 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4358 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4364 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4364 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4366 width=1024 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4366 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4372 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4368 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4368 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4370 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4370 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4372 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4374 width=512 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4376 width=512 height=256 mips=10 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4374 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4376 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4380 width=64 height=64 mips=1 dxgifmt=65 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4382 width=1024 height=256 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4384 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4386 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4388 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4378 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4378 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4380 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4382 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4384 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4386 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4390 width=251 height=186 mips=1 dxgifmt=29 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4388 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4390 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4392 width=1024 height=512 mips=11 dxgifmt=71 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4392 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4394 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4394 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4396 width=2048 height=1024 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4396 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4404 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4406 width=512 height=512 mips=1 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4408 width=512 height=256 mips=10 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4398 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4398 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4400 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4400 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4402 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4402 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4404 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4406 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4408 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4410 width=1024 height=1024 mips=11 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4410 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4412 width=2048 height=2048 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4414 width=512 height=256 mips=10 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4412 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4416 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4414 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4416 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4420 width=512 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4422 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4428 width=1024 height=576 mips=1 dxgifmt=29 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4430 width=512 height=256 mips=10 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4432 width=1024 height=512 mips=11 dxgifmt=98 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4436 width=1024 height=1024 mips=11 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4438 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4440 width=1024 height=1024 mips=11 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4418 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4418 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4420 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4422 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4428 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4430 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4432 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4436 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4438 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4440 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4442 width=2048 height=1024 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4444 width=512 height=1024 mips=1 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4450 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4424 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4424 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4426 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4426 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4434 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4434 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4442 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4444 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4450 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4446 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4446 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4448 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4448 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4452 width=512 height=1024 mips=11 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4452 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4454 width=512 height=512 mips=10 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4454 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4456 width=1024 height=1024 mips=11 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4456 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4460 width=1024 height=401 mips=1 dxgifmt=61 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4462 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4464 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4468 width=1024 height=512 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4470 width=512 height=256 mips=10 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4476 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4458 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4458 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4460 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4462 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4464 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4468 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4470 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4476 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4466 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4466 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4472 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4472 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4474 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4474 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4478 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4478 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4480 width=1383 height=1282 mips=1 dxgifmt=61 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4482 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4480 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4482 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4484 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4484 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4486 width=2048 height=1024 mips=12 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4486 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4488 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4488 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4490 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4490 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4492 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4492 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4494 width=2048 height=1024 mips=12 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4494 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4500 width=1024 height=1024 mips=11 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4502 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4504 width=64 height=64 mips=1 dxgifmt=65 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4506 width=1024 height=1024 mips=11 dxgifmt=77 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4496 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4496 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4498 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4498 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4500 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4502 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4504 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4506 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4508 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4508 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4510 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4510 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4512 width=256 height=256 mips=1 dxgifmt=78 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4512 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture id=4514 width=1024 height=1024 mips=11 dxgifmt=99 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture id=4516 width=512 height=512 mips=10 dxgifmt=72 [D3D error was 887a0005]
+ 
+(Filename:  Line: 584)
+
+d3d11: failed to create 2D texture shader resource view id=4514 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+d3d11: failed to create 2D texture shader resource view id=4516 [D3D error was 80070057]
+ 
+(Filename:  Line: 534)
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Program Files (x86)\Steam\steamapps\common\Temtem;C:\Program Files (x86)\Steam\steamapps\common\Temtem;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 534, UserName: 'rqflo'
+OS-Version: 10.0.0
+C:\Program Files (x86)\Steam\steamapps\common\Temtem\Temtem.exe:Temtem.exe (00007FF769F30000), size: 667648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.14.22377
+C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (00007FF84D6D0000), size: 2056192 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.804
+C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (00007FF84B7D0000), size: 774144 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.804
+C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (00007FF84AE10000), size: 2920448 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.804
+C:\WINDOWS\SYSTEM32\apphelp.dll:apphelp.dll (00007FF8486D0000), size: 589824 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.572
+C:\Program Files (x86)\Steam\steamapps\common\Temtem\UnityPlayer.dll:UnityPlayer.dll (00007FF80A5F0000), size: 26861568 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.14.22377
+C:\WINDOWS\System32\USER32.dll:USER32.dll (00007FF84D4F0000), size: 1703936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\System32\win32u.dll:win32u.dll (00007FF84B0E0000), size: 139264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.804
+C:\WINDOWS\System32\GDI32.dll:GDI32.dll (00007FF84BD00000), size: 172032 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\System32\gdi32full.dll:gdi32full.dll (00007FF84B260000), size: 1093632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\System32\msvcp_win.dll:msvcp_win.dll (00007FF84B110000), size: 643072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\WINDOWS\System32\ucrtbase.dll:ucrtbase.dll (00007FF84B3F0000), size: 1048576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\WINDOWS\System32\ole32.dll:ole32.dll (00007FF84CA50000), size: 1220608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\System32\RPCRT4.dll:RPCRT4.dll (00007FF84C160000), size: 1224704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (00007FF844EA0000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\combase.dll:combase.dll (00007FF84CCC0000), size: 3497984 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\System32\msvcrt.dll:msvcrt.dll (00007FF84B730000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.19041.546
+C:\WINDOWS\System32\SHLWAPI.dll:SHLWAPI.dll (00007FF84CB80000), size: 348160 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\System32\SETUPAPI.dll:SETUPAPI.dll (00007FF84B890000), size: 4616192 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\cfgmgr32.dll:cfgmgr32.dll (00007FF84B1B0000), size: 319488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\bcrypt.dll:bcrypt.dll (00007FF84B650000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.662
+C:\WINDOWS\System32\ADVAPI32.dll:ADVAPI32.dll (00007FF84D1B0000), size: 704512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.610
+C:\WINDOWS\System32\sechost.dll:sechost.dll (00007FF84D020000), size: 638976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\WINDOWS\System32\SHELL32.dll:SHELL32.dll (00007FF84C290000), size: 7610368 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\WINDOWS\System32\OLEAUT32.dll:OLEAUT32.dll (00007FF84BE40000), size: 839680 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.804
+C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FF81E770000), size: 1200128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (00007FF8395C0000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\IMM32.dll:IMM32.dll (00007FF84CBE0000), size: 196608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (00007FF824900000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\CRYPT32.dll:CRYPT32.dll (00007FF84B4F0000), size: 1400832 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.804
+C:\WINDOWS\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FF83F6F0000), size: 1048576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (00007FF8496F0000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (00007FF84C9E0000), size: 438272 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FF848D60000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FF84B370000), size: 524288 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.662
+C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (00007FF848820000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\System32\shcore.dll:shcore.dll (00007FF84CC10000), size: 712704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FF848F60000), size: 7929856 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\WINDOWS\SYSTEM32\Wldp.dll:Wldp.dll (00007FF84A7A0000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.662
+C:\WINDOWS\SYSTEM32\profapi.dll:profapi.dll (00007FF84AD40000), size: 155648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Program Files (x86)\Steam\steamapps\common\Temtem\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FF819E70000), size: 7786496 (result: 0), SymType: '-deferred-', PDB: ''
+C:\WINDOWS\System32\PSAPI.DLL:PSAPI.DLL (00007FF84D120000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\system32\mswsock.dll:mswsock.dll (00007FF84A520000), size: 434176 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\MSCTF.dll:MSCTF.dll (00007FF84D340000), size: 1134592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (00007FF845990000), size: 2506752 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (00007FF849870000), size: 995328 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\d3d10warp.dll:d3d10warp.dll (00007FF83E120000), size: 7299072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\dxcore.dll:dxcore.dll (00007FF842B20000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\system32\wbem\wbemprox.dll:wbemprox.dll (00007FF83D890000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.610
+C:\WINDOWS\SYSTEM32\wbemcomn.dll:wbemcomn.dll (00007FF83D800000), size: 548864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\system32\wbem\wbemsvc.dll:wbemsvc.dll (00007FF838640000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.610
+C:\WINDOWS\system32\wbem\fastprox.dll:fastprox.dll (00007FF838E70000), size: 1093632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\amsi.dll:amsi.dll (00007FF837FB0000), size: 102400 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\USERENV.dll:USERENV.dll (00007FF84AD00000), size: 188416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.572
+C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2101.9-0\MpOav.dll:MpOav.dll (00007FF837F30000), size: 503808 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.18.2101.9
+C:\WINDOWS\SYSTEM32\mscms.dll:mscms.dll (00007FF8470E0000), size: 712704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\ColorAdapterClient.dll:ColorAdapterClient.dll (00007FF845D80000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\icm32.dll:icm32.dll (00007FF837480000), size: 274432 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\xinput1_4.dll:xinput1_4.dll (00007FF842BA0000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1
+C:\WINDOWS\SYSTEM32\DEVOBJ.dll:DEVOBJ.dll (00007FF84AAE0000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\inputhost.dll:inputhost.dll (00007FF842900000), size: 1384448 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\CoreMessaging.dll:CoreMessaging.dll (00007FF848200000), size: 991232 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\PROPSYS.dll:PROPSYS.dll (00007FF846380000), size: 1011712 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.19041.746
+C:\WINDOWS\SYSTEM32\CoreUIComponents.dll:CoreUIComponents.dll (00007FF847E60000), size: 3530752 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\wintypes.dll:wintypes.dll (00007FF847B30000), size: 1392640 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FF849BE0000), size: 208896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\xinput1_3.dll:xinput1_3.dll (0000000000400000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.18.944.0
+C:\WINDOWS\System32\WINTRUST.dll:WINTRUST.dll (00007FF84B200000), size: 393216 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.804
+C:\WINDOWS\SYSTEM32\MSASN1.dll:MSASN1.dll (00007FF84A920000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\dcomp.dll:dcomp.dll (00007FF847920000), size: 1994752 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FF848C50000), size: 192512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\textinputframework.dll:textinputframework.dll (00007FF8426B0000), size: 1028096 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FF832630000), size: 1982464 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.804
+C:\WINDOWS\SYSTEM32\SspiCli.dll:SspiCli.dll (00007FF84ACC0000), size: 245760 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.662
+
+========== OUTPUTTING STACK TRACE ==================
+
+0x00007FF80AB77719 (UnityPlayer) UnityMain
+0x00007FF80AB752AA (UnityPlayer) UnityMain
+0x00007FF80AB719BC (UnityPlayer) UnityMain
+0x00007FF80AB71285 (UnityPlayer) UnityMain
+0x00007FF80AC98D08 (UnityPlayer) UnityMain
+0x00007FF80AC98B04 (UnityPlayer) UnityMain
+0x00007FF80AC966E7 (UnityPlayer) UnityMain
+0x00007FF80AE7F15E (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FF80AAF89FF)
+0x00007FF80AAF89FF (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FF80AAF970D)
+0x00007FF80AAF970D (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FF80AAF97E8)
+0x00007FF80AAF97E8 (UnityPlayer) (function-name not available)
+0x00007FF80AE1F978 (UnityPlayer) UnityMain
+0x00007FF84B7E7034 (KERNEL32) BaseThreadInitThunk
+0x00007FF84D71D241 (ntdll) RtlUserThreadStart
+
+========== END OF STACKTRACE ===========
+
+A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
+ * C:/Users/rqflo/AppData/Local/Temp/Crema/Temtem/Crashes
